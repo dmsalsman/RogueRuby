@@ -1,0 +1,16 @@
+<races>
+  <race>
+    <name>"Human"</name>
+    <stats>0,0,0,0,0,0</stats>
+    <experience_rate>1.0</experience_rate>
+  </race>
+  <race>
+    <name>"Elf"</name>
+    <stats>-1,+2,-1,+1,-1,+1</stats>
+    <experience_rate>1.2</experience_rate>
+  </race>
+  <race>
+    <name>"Dwarf"</name>
+    <stats>+2,-3,+2,-2,+2,-3</stats>
+  </race>
+</races>

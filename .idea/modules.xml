@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RogueRuby.iml" filepath="$PROJECT_DIR$/.idea/RogueRuby.iml" />
+      <module fileurl="file://$USER_HOME$/dev/RubyScraps/.idea/RubyScraps.iml" filepath="$USER_HOME$/dev/RubyScraps/.idea/RubyScraps.iml" />
+      <module fileurl="file://$USER_HOME$/dev/rails/depot/.idea/depot.iml" filepath="$USER_HOME$/dev/rails/depot/.idea/depot.iml" />
     </modules>
   </component>
 </project>
